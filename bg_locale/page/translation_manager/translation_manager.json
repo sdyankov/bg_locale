@@ -4,10 +4,5 @@
   "page_name": "translation-manager",
   "title": "Translation Manager",
   "module": "Bulgarian Locale",
-  "standard": "Yes",
-  "roles": [
-    {
-      "role": "System Manager"
-    }
-  ]
+  "standard": "Yes"
 }
