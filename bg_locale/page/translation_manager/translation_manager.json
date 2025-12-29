@@ -2,13 +2,6 @@
   "doctype": "Page",
   "name": "translation-manager",
   "module": "bg_locale",
-  "standard": "Yes",
-  "title": "Translation Manager",
-  "icon": "octicon octicon-globe",
-  "restrict_to_domain": null,
-  "roles": [
-    {
-      "role": "System Manager"
-    }
-  ]
+  "standard": 1,
+  "title": "Translation Manager"
 }
