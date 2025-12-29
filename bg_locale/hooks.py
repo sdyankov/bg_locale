@@ -5,6 +5,13 @@ app_description = "Bulgarian translations"
 app_email = "stdyankov@gmail.com"
 app_license = "mit"
 
+fixtures = [
+    {
+        "dt": "Page",
+        "filters": [["name", "in", ["translation-manager"]]]
+    }
+]
+
 # Apps
 # ------------------
 
